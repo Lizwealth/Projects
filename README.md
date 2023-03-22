@@ -26,6 +26,9 @@ The Legal AI Generative Solution aims to revolutionize the legal services indust
 GbemsHealth is an Electronic Medical Record (EMR) which is a digital tool used in the healthcare industry to automate patient encounters and manage patient records. It provides a unified platform for service providers to access patient data and streamline healthcare services. EMR is a cost-effective solution that helps improve the quality of healthcare services based on the specific needs of the service providers.
 
 
+*### 
+
+
 
 5. [GbemsHealth Value Prop](https://github.com/Lizwealth/Projects/blob/main/Room%204.pdf)
 
@@ -44,4 +47,10 @@ For individuals who want to purchase authentic Items at affordable rates from ve
 
 7. [Product Led Growth Case study](https://github.com/Lizwealth/Projects/blob/main/ROOM%207%20-PLG%20Q2%20REDONE.docx)
 
+Growthclan is looking for a product-led strategy that would enable them to provide career support to individuals in need for less than $3. We developed a pricing model and product-led strategy with a viral loop that is scalable and requires relatively little human engagement. Articulate a product-led strategy that will help attain its goal. 
 
+
+
+* ### Amazon Project
+
+1. 
