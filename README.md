@@ -53,4 +53,12 @@ Growthclan is looking for a product-led strategy that would enable them to provi
 
 * ### Amazon Project
 
-1. 
+1. [Portfolio](https://github.com/Lizwealth/Projects/blob/main/Lizzy's%20product-management-portfolio-.pdf)
+
+● Situation: This is a hypothetical situation that Amazon is starting to create an app/website for purchasing cars. As a product manager, I would need to help Amazon to accomplish this task. 
+
+● Task: The purpose of this report is the clear process for what a product manager will figure out with the product management team. I think of the customers’ problem in this situation, and also do some interviews for more information to find out some useful features that customers really need. After finding and deciding the features, I chose the MVP features after comparing all those features. These processes are all that will be done as a product management team to launch the Amazon car buying service.
+
+● Action: I used a lot of methods during this process which include: Product Assumptions Map, Customer Survey, Feature Brainstorm, MSCW Framework, T-Shirt Framework.
+
+● Result: After all these processes and methods, I could know all the problems I might meet and figure out the best solution with my team. Eventually, I can lead my team to launch the Amazon car buying service successfully.
