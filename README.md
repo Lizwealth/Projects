@@ -35,6 +35,12 @@ Value Propostition for An Electronic Medical Record (EMR) which is a digital too
 
 6. [TidyIt](https://github.com/Lizwealth/Projects/blob/main/TidyIt-20230322T175312Z-001.zip)
 
+Brand Positioning (Sellers)
+For individuals who want to get value for their less-needed item in quick time, TidyIt provides a platform to list multiple categories of items. The delivery process on TidyIt spotlights your listed items to a wider audience as we process delivery to any part of the country. Unlike other used goods platforms, TidyIt lists and sell your Items at the lowest commission.
+
+Brand Positioning (Buyers)
+For individuals who want to purchase authentic Items at affordable rates from verified sellers, TidyIt provides a secured and seamless marketplace. TidyIt sets the pace for other used goods platforms, with its door -step delivery and money back guarantee.
+
 
 7. [Product Led Growth Case study](https://github.com/Lizwealth/Projects/blob/main/ROOM%207%20-PLG%20Q2%20REDONE.docx)
 
